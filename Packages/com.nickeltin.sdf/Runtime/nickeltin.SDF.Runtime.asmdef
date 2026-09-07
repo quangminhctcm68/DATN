@@ -1,0 +1,23 @@
+{
+    "name": "nickeltin.SDF.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "nickeltin.Core.Editor",
+        "nickeltin.Core.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "Unity",
+            "expression": "2023.1",
+            "define": "SDF_NEW_SPRITE_METADATA"
+        }
+    ],
+    "noEngineReferences": false
+}

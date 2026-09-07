@@ -1,0 +1,64 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+[Dd]esign/
+Assets/BuildReports/
+Assets/BuildReports.meta
+sysinfo.txt
+*.stackdump
+*.symbols.zip
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/*.vscode
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# =============== #
+# Firebase #
+# =============== #
+remote_config_data
+
+# =============== #
+# Rider #
+# =============== #
+.idea/
+/Logs/
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_0_0.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_0_0.bundle.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_0_0.so
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_0_0.so.meta
+Assets/Firebase/Plugins/x86_64
+*.log
+*.log
+Cat-Prank/Logs
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_1_0.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_1_0.bundle.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_1_0.so.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_1_0.dll
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_1_0.dll.meta
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_1_0.so
+Assets/Firebase/Plugins/x86_64
+UserSettings/Layouts
