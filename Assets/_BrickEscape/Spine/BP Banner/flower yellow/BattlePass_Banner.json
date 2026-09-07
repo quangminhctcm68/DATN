@@ -1,0 +1,104 @@
+{
+  "skeleton": {
+    "hash": "4xCXVVVmtq38bWn+8EOfWk8BasE",
+    "spine": "3.8.76",
+    "x": -590.24,
+    "y": -402.59,
+    "width": 1160,
+    "height": 867,
+    "images": "./BattlePass_Banner/images/",
+    "audio": "D:/80 Brick Escape/BattlePass_Banner"
+  },
+  "bones": [
+    { "name": "root" },
+    {
+      "name": "hoa vang",
+      "parent": "root",
+      "length": 255.6,
+      "rotation": 89.68,
+      "x": -457.58,
+      "y": -372.15
+    }
+  ],
+  "slots": [
+    {
+      "name": "hoa vang",
+      "bone": "hoa vang",
+      "attachment": "hoa vang"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "hoa vang": {
+          "hoa vang": {
+            "x": 125.58,
+            "y": -4.64,
+            "rotation": -89.68,
+            "width": 240,
+            "height": 306
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "hoa vang": {
+          "rotate": [
+            {
+              "angle": 4.29,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1,
+              "angle": 8.39,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 2.6667,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4.3333,
+              "angle": 8.39,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 6,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 7.6667,
+              "angle": 8.39,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 9.3333,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 11,
+              "angle": 8.39,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 12,
+              "angle": 4.29
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,492 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98d83934057be3344a5c808ff979c976, type: 3}
+  m_Name: BattlePass Data Collection
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  regularRewards:
+  - level: 0
+    expRequirement: 1
+    rewardType: 0
+    coinToAdd: 200
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 1
+    expRequirement: 2
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 2
+    expRequirement: 2
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 900
+  - level: 3
+    expRequirement: 3
+    rewardType: 2
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 4
+    expRequirement: 3
+    rewardType: 0
+    coinToAdd: 100
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 5
+    expRequirement: 3
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 900
+  - level: 6
+    expRequirement: 4
+    rewardType: 0
+    coinToAdd: 200
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 7
+    expRequirement: 4
+    rewardType: 3
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 8
+    expRequirement: 4
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 900
+  - level: 9
+    expRequirement: 5
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 10
+    expRequirement: 5
+    rewardType: 0
+    coinToAdd: 100
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 11
+    expRequirement: 5
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 900
+  - level: 12
+    expRequirement: 5
+    rewardType: 2
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 13
+    expRequirement: 5
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 900
+  - level: 14
+    expRequirement: 5
+    rewardType: 0
+    coinToAdd: 400
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 15
+    expRequirement: 5
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 16
+    expRequirement: 5
+    rewardType: 2
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 17
+    expRequirement: 5
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 900
+  - level: 18
+    expRequirement: 5
+    rewardType: 0
+    coinToAdd: 100
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 19
+    expRequirement: 5
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 1800
+  - level: 20
+    expRequirement: 5
+    rewardType: 0
+    coinToAdd: 200
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 21
+    expRequirement: 5
+    rewardType: 3
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 22
+    expRequirement: 5
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 23
+    expRequirement: 5
+    rewardType: 0
+    coinToAdd: 100
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 24
+    expRequirement: 5
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 900
+  - level: 25
+    expRequirement: 5
+    rewardType: 2
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 26
+    expRequirement: 5
+    rewardType: 0
+    coinToAdd: 100
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 27
+    expRequirement: 5
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 28
+    expRequirement: 5
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 1800
+  - level: 29
+    expRequirement: 5
+    rewardType: 0
+    coinToAdd: 400
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 30
+    expRequirement: 5
+    rewardType: 3
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  premiumRewards:
+  - level: 0
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 1800
+  - level: 1
+    rewardType: 4
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 15
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 2
+    rewardType: 0
+    coinToAdd: 400
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 3
+    rewardType: 0
+    coinToAdd: 1000
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 4
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 5
+    rewardType: 0
+    coinToAdd: 400
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 6
+    rewardType: 2
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 7
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 1800
+  - level: 8
+    rewardType: 5
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 12
+    infiniteHeartDurationToAdd: 0
+  - level: 9
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 10
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 1800
+  - level: 11
+    rewardType: 0
+    coinToAdd: 400
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 12
+    rewardType: 2
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 13
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 1800
+  - level: 14
+    rewardType: 0
+    coinToAdd: 1000
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 15
+    rewardType: 3
+    coinToAdd: 0
+    boosterUseCountToAdd: 1
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 16
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 17
+    rewardType: 0
+    coinToAdd: 400
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 18
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 1800
+  - level: 19
+    rewardType: 3
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 20
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 3600
+  - level: 21
+    rewardType: 0
+    coinToAdd: 1000
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 22
+    rewardType: 2
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 23
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 24
+    rewardType: 0
+    coinToAdd: 400
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 25
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 3600
+  - level: 26
+    rewardType: 0
+    coinToAdd: 400
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 27
+    rewardType: 1
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 28
+    rewardType: 2
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  - level: 29
+    rewardType: 6
+    coinToAdd: 0
+    boosterUseCountToAdd: 0
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 1800
+  - level: 30
+    rewardType: 3
+    coinToAdd: 0
+    boosterUseCountToAdd: 2
+    avatarIconIDToUnlock: 0
+    avatarFrameIDToUnlock: 0
+    infiniteHeartDurationToAdd: 0
+  rawBattlePassRewardsRegularData: {fileID: 11400000, guid: 2142ad266a8b0064bb06d1c6a772b5fe, type: 2}
+  rawBattlePassRewardsPremiumData: {fileID: 11400000, guid: 74dfd0bc41d8fbe439ac8faa702b7079, type: 2}

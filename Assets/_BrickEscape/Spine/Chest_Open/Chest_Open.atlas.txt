@@ -1,0 +1,20 @@
+
+Chest_Open.png
+size: 422,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: true
+  xy: 239, 5
+  size: 245, 181
+  orig: 252, 186
+  offset: 5, 1
+  index: -1
+Chest open
+  rotate: true
+  xy: 2, 2
+  size: 248, 235
+  orig: 250, 237
+  offset: 1, 1
+  index: -1

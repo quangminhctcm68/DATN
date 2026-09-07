@@ -1,0 +1,372 @@
+{
+  "skeleton": {
+    "hash": "pZnOU0uhlhhZtgYglRh2gHDWo04",
+    "spine": "3.8.76",
+    "x": -590.24,
+    "y": -402.59,
+    "width": 1160,
+    "height": 867,
+    "images": "./BattlePass_Banner/images/",
+    "audio": "D:/80 Brick Escape/BattlePass_Banner"
+  },
+  "bones": [
+    { "name": "root" },
+    {
+      "name": "sun",
+      "parent": "root",
+      "length": 164.73,
+      "rotation": 89.51,
+      "x": -74.19,
+      "y": 35.39
+    },
+    {
+      "name": "sun eyes open",
+      "parent": "sun",
+      "length": 58.24,
+      "rotation": -0.9,
+      "x": 28.39,
+      "y": 1.66
+    },
+    {
+      "name": "sun eyes close",
+      "parent": "sun",
+      "length": 76.69,
+      "rotation": 179.43,
+      "x": 21.31,
+      "y": -1.24
+    }
+  ],
+  "slots": [
+    {
+      "name": "sun",
+      "bone": "sun",
+      "attachment": "sun"
+    },
+    {
+      "name": "sun eyes close",
+      "bone": "sun eyes close",
+      "attachment": "sun eyes close"
+    },
+    {
+      "name": "sun eyes open",
+      "bone": "sun eyes open",
+      "attachment": "sun eyes open"
+    },
+    {
+      "name": "mouth",
+      "bone": "sun",
+      "attachment": "mouth"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "mouth": {
+          "mouth": {
+            "x": -18.48,
+            "y": -0.1,
+            "rotation": -89.51,
+            "width": 52,
+            "height": 23
+          }
+        },
+        "sun": {
+          "sun": {
+            "x": 3.55,
+            "y": -3.91,
+            "rotation": -89.51,
+            "width": 508,
+            "height": 497
+          }
+        },
+        "sun eyes close": {
+          "sun eyes close": {
+            "x": -7.2,
+            "y": -1.11,
+            "rotation": 91.06,
+            "width": 157,
+            "height": 23
+          }
+        },
+        "sun eyes open": {
+          "sun eyes open": {
+            "x": 3.65,
+            "y": -1.27,
+            "rotation": -88.6,
+            "width": 138,
+            "height": 44
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "sun": {
+          "rotate": [
+            {
+              "time": 2,
+              "curve": 0.329,
+              "c2": 0.31,
+              "c3": 0.662,
+              "c4": 0.65
+            },
+            {
+              "time": 2.3333,
+              "angle": -13.32,
+              "curve": 0.329,
+              "c2": 0.32,
+              "c3": 0.663,
+              "c4": 0.65
+            },
+            {
+              "time": 2.6667,
+              "angle": 17.55,
+              "curve": 0.321,
+              "c2": 0.29,
+              "c3": 0.656,
+              "c4": 0.63
+            },
+            {
+              "time": 3,
+              "angle": -13.32,
+              "curve": 0.329,
+              "c2": 0.32,
+              "c3": 0.663,
+              "c4": 0.65
+            },
+            {
+              "time": 3.3333,
+              "angle": 17.55,
+              "curve": 0.321,
+              "c2": 0.29,
+              "c3": 0.656,
+              "c4": 0.63
+            },
+            {
+              "time": 3.6667,
+              "angle": -13.32,
+              "curve": 0.329,
+              "c2": 0.32,
+              "c3": 0.663,
+              "c4": 0.65
+            },
+            {
+              "time": 4,
+              "curve": "stepped"
+            },
+            {
+              "time": 8,
+              "curve": 0.329,
+              "c2": 0.31,
+              "c3": 0.662,
+              "c4": 0.65
+            },
+            {
+              "time": 8.3333,
+              "angle": -13.32,
+              "curve": 0.329,
+              "c2": 0.32,
+              "c3": 0.663,
+              "c4": 0.65
+            },
+            {
+              "time": 8.6667,
+              "angle": 17.55,
+              "curve": 0.321,
+              "c2": 0.29,
+              "c3": 0.656,
+              "c4": 0.63
+            },
+            {
+              "time": 9,
+              "angle": -13.32,
+              "curve": 0.329,
+              "c2": 0.32,
+              "c3": 0.663,
+              "c4": 0.65
+            },
+            {
+              "time": 9.3333,
+              "angle": 17.55,
+              "curve": 0.321,
+              "c2": 0.29,
+              "c3": 0.656,
+              "c4": 0.63
+            },
+            {
+              "time": 9.6667,
+              "angle": -13.32,
+              "curve": 0.329,
+              "c2": 0.32,
+              "c3": 0.663,
+              "c4": 0.65
+            },
+            { "time": 10 }
+          ],
+          "translate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "x": 74.65,
+              "y": 61.74,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 6,
+              "x": 149.31,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 9,
+              "x": 74.65,
+              "y": 52.92,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 12 }
+          ],
+          "scale": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1,
+              "x": 0.95,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 2,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "x": 0.95,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 5,
+              "x": 0.95,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 6,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 7,
+              "x": 0.95,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 8,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 9,
+              "x": 0.95,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 10,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 11,
+              "x": 0.95,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 12 }
+          ]
+        },
+        "sun eyes open": {
+          "scale": [
+            { "time": 2 },
+            {
+              "time": 2.0333,
+              "x": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.9667,
+              "x": 0
+            },
+            {
+              "time": 4,
+              "curve": "stepped"
+            },
+            { "time": 8 },
+            {
+              "time": 8.0333,
+              "x": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 9.9667,
+              "x": 0
+            },
+            { "time": 10 }
+          ]
+        },
+        "sun eyes close": {
+          "scale": [
+            {
+              "x": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 2,
+              "x": 0
+            },
+            {
+              "time": 2.0333,
+              "curve": "stepped"
+            },
+            { "time": 3.9667 },
+            {
+              "time": 4,
+              "x": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 8,
+              "x": 0
+            },
+            {
+              "time": 8.0333,
+              "curve": "stepped"
+            },
+            { "time": 9.9667 },
+            {
+              "time": 10,
+              "x": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

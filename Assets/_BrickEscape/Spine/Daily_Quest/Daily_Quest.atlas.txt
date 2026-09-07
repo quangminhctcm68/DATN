@@ -1,0 +1,27 @@
+
+Daily_Quest.png
+size: 460,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green gift
+  rotate: false
+  xy: 235, 18
+  size: 223, 229
+  orig: 225, 232
+  offset: 1, 1
+  index: -1
+quest
+  rotate: true
+  xy: 2, 249
+  size: 369, 386
+  orig: 375, 390
+  offset: 3, 3
+  index: -1
+red gift
+  rotate: false
+  xy: 2, 2
+  size: 231, 245
+  orig: 233, 247
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26cbcd182c3dfe444a1915fb3afd5491, type: 3}
+  m_Name: RawFrame
+  m_EditorClassIdentifier: 
+  rawFrames:
+  - FrameID: 1
+    LevelComplete: 5
+    UnlockType: 0
+  - FrameID: 2
+    LevelComplete: 10
+    UnlockType: 0
+  - FrameID: 3
+    LevelComplete: 20
+    UnlockType: 0
+  - FrameID: 4
+    LevelComplete: 30
+    UnlockType: 0
+  - FrameID: 5
+    LevelComplete: 40
+    UnlockType: 0
+  - FrameID: 6
+    LevelComplete: 50
+    UnlockType: 0
+  - FrameID: 7
+    LevelComplete: 75
+    UnlockType: 0
+  - FrameID: 8
+    LevelComplete: 100
+    UnlockType: 0
+  - FrameID: 9
+    LevelComplete: 125
+    UnlockType: 0
+  - FrameID: 10
+    LevelComplete: 150
+    UnlockType: 0
+  - FrameID: 11
+    LevelComplete: 175
+    UnlockType: 0
+  - FrameID: 12
+    LevelComplete: -1
+    UnlockType: 1
+  - FrameID: 13
+    LevelComplete: 200
+    UnlockType: 0

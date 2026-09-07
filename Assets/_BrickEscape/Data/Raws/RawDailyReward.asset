@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6fe9d1f39caeb94fa66f62fd072774f, type: 3}
+  m_Name: RawDailyReward
+  m_EditorClassIdentifier: 
+  rawDailyRewards:
+  - ID: 1
+    RewardType: 0
+    Qty: 50
+  - ID: 2
+    RewardType: 1
+    Qty: 1
+  - ID: 3
+    RewardType: 6
+    Qty: 10
+  - ID: 4
+    RewardType: 2
+    Qty: 1
+  - ID: 5
+    RewardType: 0
+    Qty: 100
+  - ID: 6
+    RewardType: 6
+    Qty: 15
+  - ID: 7
+    RewardType: 0
+    Qty: 200
+  - ID: 1
+    RewardType: 3
+    Qty: 1
+  - ID: 2
+    RewardType: 6
+    Qty: 10
+  - ID: 3
+    RewardType: 1
+    Qty: 1
+  - ID: 4
+    RewardType: 0
+    Qty: 100
+  - ID: 5
+    RewardType: 6
+    Qty: 15
+  - ID: 6
+    RewardType: 2
+    Qty: 0
+  - ID: 7
+    RewardType: 6
+    Qty: 15
+  - ID: 1
+    RewardType: 0
+    Qty: 50
+  - ID: 2
+    RewardType: 1
+    Qty: 2
+  - ID: 3
+    RewardType: 2
+    Qty: 1
+  - ID: 4
+    RewardType: 6
+    Qty: 10
+  - ID: 5
+    RewardType: 0
+    Qty: 100
+  - ID: 6
+    RewardType: 6
+    Qty: 15
+  - ID: 7
+    RewardType: 0
+    Qty: 200
+  - ID: 1
+    RewardType: 3
+    Qty: 1
+  - ID: 2
+    RewardType: 1
+    Qty: 1
+  - ID: 3
+    RewardType: 0
+    Qty: 100
+  - ID: 4
+    RewardType: 6
+    Qty: 10
+  - ID: 5
+    RewardType: 2
+    Qty: 1
+  - ID: 6
+    RewardType: 0
+    Qty: 100
+  - ID: 7
+    RewardType: 6
+    Qty: 15

@@ -1,0 +1,13 @@
+
+MoonRace_Cat.png
+size: 974,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud white
+  rotate: false
+  xy: 2, 2
+  size: 970, 463
+  orig: 974, 467
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,153 @@
+
+MoonRace_Cat.png
+size: 1858,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 974, 253
+  size: 540, 276
+  orig: 613, 377
+  offset: 46, 37
+  index: -1
+cloud white
+  rotate: false
+  xy: 2, 66
+  size: 970, 463
+  orig: 974, 467
+  offset: 2, 2
+  index: -1
+coin 1
+  rotate: true
+  xy: 1692, 153
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin 6
+  rotate: true
+  xy: 1692, 153
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 1
+  rotate: true
+  xy: 1692, 153
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 2
+  rotate: true
+  xy: 1692, 153
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 3
+  rotate: true
+  xy: 1692, 153
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 4
+  rotate: true
+  xy: 1692, 153
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 5
+  rotate: true
+  xy: 1692, 153
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 6
+  rotate: true
+  xy: 1692, 153
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin 2
+  rotate: true
+  xy: 1685, 47
+  size: 103, 87
+  orig: 107, 90
+  offset: 2, 2
+  index: -1
+coin 3
+  rotate: true
+  xy: 1594, 48
+  size: 102, 89
+  orig: 106, 92
+  offset: 2, 2
+  index: -1
+coin 4
+  rotate: true
+  xy: 1774, 53
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin 5
+  rotate: true
+  xy: 1774, 53
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin 7
+  rotate: true
+  xy: 1594, 152
+  size: 99, 96
+  orig: 103, 99
+  offset: 2, 2
+  index: -1
+eyes close
+  rotate: false
+  xy: 2, 23
+  size: 152, 41
+  orig: 154, 43
+  offset: 1, 1
+  index: -1
+eyes open
+  rotate: true
+  xy: 1511, 69
+  size: 182, 81
+  orig: 184, 83
+  offset: 1, 1
+  index: -1
+eyesbrown
+  rotate: false
+  xy: 156, 32
+  size: 135, 32
+  orig: 137, 34
+  offset: 1, 1
+  index: -1
+hand
+  rotate: false
+  xy: 974, 13
+  size: 535, 238
+  orig: 538, 240
+  offset: 2, 1
+  index: -1
+head
+  rotate: false
+  xy: 1516, 253
+  size: 309, 276
+  orig: 321, 287
+  offset: 10, 6
+  index: -1
+tongue
+  rotate: true
+  xy: 293, 2
+  size: 62, 50
+  orig: 67, 52
+  offset: 3, 1
+  index: -1

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 779ef93dd5993a041b5ded769e996f60, type: 3}
+  m_Name: RawDailyQuest_Reward
+  m_EditorClassIdentifier: 
+  rawDailyQuestRewards:
+  - RequireBadge: 3
+    RewardType: 0
+    Qty: 50
+  - RequireBadge: 7
+    RewardType: 1
+    Qty: 1
+  - RequireBadge: 12
+    RewardType: 6
+    Qty: 10
+  - RequireBadge: 18
+    RewardType: 2
+    Qty: 1
+  - RequireBadge: 25
+    RewardType: 0
+    Qty: 100

@@ -1,0 +1,83 @@
+
+EliteBundle.png
+size: 232,681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag 1 duoi
+  rotate: true
+  xy: 2, 476
+  size: 203, 226
+  orig: 205, 228
+  offset: 1, 1
+  index: -1
+bag 1 tren
+  rotate: false
+  xy: 2, 294
+  size: 206, 180
+  orig: 208, 182
+  offset: 1, 1
+  index: -1
+coin 1
+  rotate: true
+  xy: 149, 212
+  size: 80, 81
+  orig: 83, 83
+  offset: 1, 1
+  index: -1
+coin 2
+  rotate: false
+  xy: 99, 2
+  size: 80, 80
+  orig: 82, 83
+  offset: 1, 2
+  index: -1
+coin 3
+  rotate: true
+  xy: 136, 84
+  size: 92, 93
+  orig: 96, 96
+  offset: 2, 2
+  index: -1
+coin 4
+  rotate: true
+  xy: 2, 84
+  size: 95, 97
+  orig: 99, 100
+  offset: 2, 2
+  index: -1
+coin 5
+  rotate: true
+  xy: 101, 95
+  size: 84, 33
+  orig: 86, 35
+  offset: 1, 1
+  index: -1
+coin 6
+  rotate: false
+  xy: 149, 178
+  size: 81, 32
+  orig: 83, 34
+  offset: 1, 1
+  index: -1
+coin 7
+  rotate: false
+  xy: 149, 178
+  size: 81, 32
+  orig: 83, 34
+  offset: 1, 1
+  index: -1
+coin static 1
+  rotate: false
+  xy: 2, 181
+  size: 145, 111
+  orig: 147, 113
+  offset: 1, 1
+  index: -1
+coin static 2
+  rotate: false
+  xy: 2, 30
+  size: 95, 52
+  orig: 97, 54
+  offset: 1, 1
+  index: -1

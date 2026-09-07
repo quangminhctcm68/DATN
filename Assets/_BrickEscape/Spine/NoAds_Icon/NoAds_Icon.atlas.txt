@@ -1,0 +1,62 @@
+
+NoAds_Icon.png
+size: 152,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TV
+  rotate: false
+  xy: 2, 157
+  size: 142, 122
+  orig: 144, 124
+  offset: 1, 1
+  index: -1
+angten
+  rotate: false
+  xy: 122, 43
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+angten 1
+  rotate: false
+  xy: 122, 19
+  size: 27, 22
+  orig: 29, 24
+  offset: 1, 1
+  index: -1
+angten 2
+  rotate: false
+  xy: 91, 42
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+ban
+  rotate: true
+  xy: 2, 3
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 97, 73
+  size: 82, 49
+  orig: 84, 51
+  offset: 1, 1
+  index: -1
+screen color
+  rotate: false
+  xy: 2, 81
+  size: 93, 74
+  orig: 95, 76
+  offset: 1, 1
+  index: -1
+white
+  rotate: true
+  xy: 81, 2
+  size: 77, 8
+  orig: 79, 10
+  offset: 1, 1
+  index: -1

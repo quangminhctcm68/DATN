@@ -1,0 +1,41 @@
+
+BattlePass_Banner.png
+size: 1287,826
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 2, 2
+  size: 822, 830
+  orig: 867, 867
+  offset: 19, 21
+  index: -1
+mouth
+  rotate: true
+  xy: 834, 287
+  size: 50, 21
+  orig: 52, 23
+  offset: 1, 1
+  index: -1
+sun
+  rotate: true
+  xy: 834, 362
+  size: 462, 451
+  orig: 508, 497
+  offset: 23, 23
+  index: -1
+sun eyes close
+  rotate: false
+  xy: 834, 339
+  size: 155, 21
+  orig: 157, 23
+  offset: 1, 1
+  index: -1
+sun eyes open
+  rotate: true
+  xy: 991, 224
+  size: 136, 42
+  orig: 138, 44
+  offset: 1, 1
+  index: -1

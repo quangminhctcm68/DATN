@@ -1,0 +1,83 @@
+
+Piggy_Bank.png
+size: 1040,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 780, 595
+  orig: 782, 597
+  offset: 1, 1
+  index: -1
+Eye 1
+  rotate: false
+  xy: 923, 14
+  size: 66, 86
+  orig: 68, 88
+  offset: 1, 1
+  index: -1
+Eye 2
+  rotate: false
+  xy: 953, 208
+  size: 85, 94
+  orig: 87, 96
+  offset: 1, 1
+  index: -1
+Eye_fun 1
+  rotate: true
+  xy: 980, 413
+  size: 86, 45
+  orig: 88, 47
+  offset: 1, 1
+  index: -1
+Eye_fun 2
+  rotate: true
+  xy: 941, 102
+  size: 104, 61
+  orig: 107, 63
+  offset: 2, 1
+  index: -1
+Eyebrown 1
+  rotate: true
+  xy: 980, 501
+  size: 96, 56
+  orig: 101, 60
+  offset: 2, 2
+  index: -1
+Eyebrown 2
+  rotate: true
+  xy: 953, 304
+  size: 107, 76
+  orig: 116, 83
+  offset: 2, 4
+  index: -1
+Leg 1
+  rotate: false
+  xy: 784, 12
+  size: 137, 114
+  orig: 140, 120
+  offset: 2, 4
+  index: -1
+Leg 2
+  rotate: false
+  xy: 784, 128
+  size: 155, 149
+  orig: 157, 155
+  offset: 1, 1
+  index: -1
+Leg 3
+  rotate: false
+  xy: 784, 279
+  size: 167, 158
+  orig: 175, 164
+  offset: 7, 1
+  index: -1
+coin copy 7
+  rotate: false
+  xy: 784, 439
+  size: 194, 158
+  orig: 197, 161
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,181 @@
+
+Piggy_Bank.png
+size: 1770,1271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 973, 489
+  size: 780, 595
+  orig: 782, 597
+  offset: 1, 1
+  index: -1
+Eye 1
+  rotate: true
+  xy: 1365, 421
+  size: 66, 86
+  orig: 68, 88
+  offset: 1, 1
+  index: -1
+Eye 2
+  rotate: true
+  xy: 1154, 2
+  size: 85, 94
+  orig: 87, 96
+  offset: 1, 1
+  index: -1
+Eye_fun 1
+  rotate: true
+  xy: 1316, 197
+  size: 86, 45
+  orig: 88, 47
+  offset: 1, 1
+  index: -1
+Eye_fun 2
+  rotate: false
+  xy: 1453, 426
+  size: 104, 61
+  orig: 107, 63
+  offset: 2, 1
+  index: -1
+Eyebrown 1
+  rotate: false
+  xy: 1359, 6
+  size: 96, 56
+  orig: 101, 60
+  offset: 2, 2
+  index: -1
+Eyebrown 2
+  rotate: false
+  xy: 1250, 11
+  size: 107, 76
+  orig: 116, 83
+  offset: 2, 4
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 22
+  size: 992, 280
+  orig: 1011, 298
+  offset: 9, 9
+  index: -1
+Leg 1
+  rotate: true
+  xy: 1569, 268
+  size: 149, 130
+  orig: 157, 138
+  offset: 5, 4
+  index: -1
+Leg 2
+  rotate: false
+  xy: 1363, 64
+  size: 203, 149
+  orig: 221, 155
+  offset: 7, 1
+  index: -1
+Leg 3
+  rotate: true
+  xy: 996, 214
+  size: 197, 158
+  orig: 207, 164
+  offset: 7, 1
+  index: -1
+coin 1
+  rotate: false
+  xy: 1161, 285
+  size: 202, 202
+  orig: 206, 206
+  offset: 2, 2
+  index: -1
+coin 2
+  rotate: false
+  xy: 1365, 215
+  size: 202, 202
+  orig: 206, 205
+  offset: 2, 2
+  index: -1
+coin 3
+  rotate: false
+  xy: 973, 413
+  size: 186, 74
+  orig: 188, 76
+  offset: 1, 1
+  index: -1
+coin 10
+  rotate: false
+  xy: 973, 413
+  size: 186, 74
+  orig: 188, 76
+  offset: 1, 1
+  index: -1
+coin 4
+  rotate: false
+  xy: 973, 413
+  size: 186, 74
+  orig: 188, 76
+  offset: 1, 1
+  index: -1
+coin 6
+  rotate: false
+  xy: 973, 413
+  size: 186, 74
+  orig: 188, 76
+  offset: 1, 1
+  index: -1
+coin 7
+  rotate: false
+  xy: 973, 413
+  size: 186, 74
+  orig: 188, 76
+  offset: 1, 1
+  index: -1
+coin 8
+  rotate: false
+  xy: 973, 413
+  size: 186, 74
+  orig: 188, 76
+  offset: 1, 1
+  index: -1
+coin 9
+  rotate: false
+  xy: 973, 413
+  size: 186, 74
+  orig: 188, 76
+  offset: 1, 1
+  index: -1
+coin 5
+  rotate: false
+  xy: 1568, 32
+  size: 134, 181
+  orig: 137, 184
+  offset: 2, 2
+  index: -1
+coin copy 7
+  rotate: true
+  xy: 1156, 89
+  size: 194, 158
+  orig: 197, 161
+  offset: 1, 1
+  index: -1
+coin static 1
+  rotate: true
+  xy: 1570, 419
+  size: 850, 198
+  orig: 852, 200
+  offset: 1, 1
+  index: -1
+coin static 2
+  rotate: true
+  xy: 996, 2
+  size: 210, 156
+  orig: 212, 158
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 304
+  size: 969, 965
+  orig: 987, 982
+  offset: 9, 9
+  index: -1

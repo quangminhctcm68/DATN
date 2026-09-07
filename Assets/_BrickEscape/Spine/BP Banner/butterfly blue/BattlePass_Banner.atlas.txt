@@ -1,0 +1,20 @@
+
+BattlePass_Banner.png
+size: 142,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butterfly blue 1
+  rotate: false
+  xy: 2, 5
+  size: 71, 60
+  orig: 73, 62
+  offset: 1, 1
+  index: -1
+butterfly blue 2
+  rotate: true
+  xy: 75, 2
+  size: 63, 65
+  orig: 66, 68
+  offset: 2, 2
+  index: -1

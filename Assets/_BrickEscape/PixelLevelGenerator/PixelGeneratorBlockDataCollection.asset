@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b1134107c9ee494a9d6d6ca1cc23c9b, type: 3}
+  m_Name: PixelGeneratorBlockDataCollection
+  m_EditorClassIdentifier: 
+  blocks:
+  - Id: 0
+    Prefab: {fileID: 3216317370631902661, guid: 6472fa75969186e458d498e9f8c96b69, type: 3}
+  - Id: 1
+    Prefab: {fileID: 2906150494253892304, guid: 36d2dedd991c2434297f53d65c996009, type: 3}
+  - Id: 2
+    Prefab: {fileID: 2906150494253892304, guid: c4788fc0aee935d49b3d6e2dd64b422b, type: 3}
+  - Id: 3
+    Prefab: {fileID: 2906150494253892304, guid: 3dda3a820ff19da4abe5be84f658cfe4, type: 3}
+  - Id: 4
+    Prefab: {fileID: 2906150494253892304, guid: 5a2506ae4bc3124438ac6309603c19b4, type: 3}
+  - Id: 5
+    Prefab: {fileID: 2906150494253892304, guid: f78d29c7063d1154493eb3622f794760, type: 3}
+  - Id: 6
+    Prefab: {fileID: 2906150494253892304, guid: a63e5ee226dd4b046bad65b3079077f6, type: 3}
+  - Id: 7
+    Prefab: {fileID: 2906150494253892304, guid: 3998d6ee5bb2e1a41bdbf45f60920872, type: 3}
+  - Id: 8
+    Prefab: {fileID: 2906150494253892304, guid: e39df81dfa03e7e48880e10ae88caf7a, type: 3}
+  - Id: 9
+    Prefab: {fileID: 2906150494253892304, guid: fe13206efbd670a47aa03742bd900411, type: 3}
+  - Id: 10
+    Prefab: {fileID: 2906150494253892304, guid: 4d866a8926ab6024cad52e79f7201032, type: 3}
+  - Id: 11
+    Prefab: {fileID: 2906150494253892304, guid: c425c8c5c6c6a17418feef3d2000e02e, type: 3}
+  - Id: 12
+    Prefab: {fileID: 2906150494253892304, guid: 7c0ca0323a6299f45abcd7cf0dbdd93d, type: 3}
+  - Id: 13
+    Prefab: {fileID: 2906150494253892304, guid: 44dde9ca3780dc34b912a8915463257d, type: 3}
+  - Id: 14
+    Prefab: {fileID: 2906150494253892304, guid: 8e5487c4c05bd6e44a723ddcfa80c894, type: 3}
+  - Id: 15
+    Prefab: {fileID: 2906150494253892304, guid: b392a64fc05b83c45887668b2c94ce07, type: 3}
+  - Id: 16
+    Prefab: {fileID: 2906150494253892304, guid: 82239b7cd528e944697458e848faf23b, type: 3}
+  - Id: 17
+    Prefab: {fileID: 2906150494253892304, guid: befb283173ded6b43929e76034990bcf, type: 3}
+  - Id: 18
+    Prefab: {fileID: 2906150494253892304, guid: b48295c04939fac48858560094795885, type: 3}
+  - Id: 19
+    Prefab: {fileID: 2906150494253892304, guid: 416031e73e0ce2f45b6998bacbd36a33, type: 3}
+  - Id: 20
+    Prefab: {fileID: 2906150494253892304, guid: 1dab3eecc7a6b124e8306338a7109441, type: 3}
+  - Id: 21
+    Prefab: {fileID: 2906150494253892304, guid: e33414a4d245c4444a8b7d3eeea4f681, type: 3}
+  - Id: 22
+    Prefab: {fileID: 2906150494253892304, guid: 8139c44ff8e06ab458c964f32c8cbd46, type: 3}
+  - Id: 23
+    Prefab: {fileID: 2906150494253892304, guid: 5a2ae55269a2a8d42a58cc5760c45a38, type: 3}
+  - Id: 24
+    Prefab: {fileID: 2906150494253892304, guid: 2edf7e25555e4934faaec505a0c068ef, type: 3}
+  - Id: 25
+    Prefab: {fileID: 2906150494253892304, guid: cadf95c0e58a2724cadb25185d463c43, type: 3}
+  - Id: 26
+    Prefab: {fileID: 2906150494253892304, guid: e61eb8aba3e39bd4cbb061fbc84f92d2, type: 3}
+  - Id: 27
+    Prefab: {fileID: 2906150494253892304, guid: df882b00f3d54b243ab2518d3c63322d, type: 3}
+  - Id: 28
+    Prefab: {fileID: 2906150494253892304, guid: c5d9cbf46206f664cb939598fd3766f4, type: 3}
+  - Id: 29
+    Prefab: {fileID: 2906150494253892304, guid: 295583c1688e84e4fbb54da1f506efdb, type: 3}
+  - Id: 30
+    Prefab: {fileID: 2906150494253892304, guid: 2166af892d1f1b94ea866bf412a1a960, type: 3}
+  - Id: 31
+    Prefab: {fileID: 2906150494253892304, guid: 03dd0ef4bab8f1c44abe93c4d1f76080, type: 3}
+  - Id: 32
+    Prefab: {fileID: 2906150494253892304, guid: 81fbd92ef1362814bbb4974bf49886e9, type: 3}
+  - Id: 33
+    Prefab: {fileID: 2906150494253892304, guid: 5e4115412e9421940b23de89428ed0f7, type: 3}
+  - Id: 34
+    Prefab: {fileID: 2906150494253892304, guid: 3b97f0f9b4032fb4ca68bc5c92db1d46, type: 3}
+  - Id: 35
+    Prefab: {fileID: 2906150494253892304, guid: 4396a8bf9ebdb4f43897ce7758945716, type: 3}
+  - Id: 36
+    Prefab: {fileID: 2906150494253892304, guid: ba6909e8cc71f7e4d99b556b5264e6ad, type: 3}
+  - Id: 37
+    Prefab: {fileID: 2906150494253892304, guid: b141c4c6c3921f94aaa8da576e19ee70, type: 3}

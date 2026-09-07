@@ -1,0 +1,174 @@
+
+EpicBundle_Popup.png
+size: 1680,738
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1260, 560
+  size: 403, 176
+  orig: 405, 178
+  offset: 1, 1
+  index: -1
+chest base
+  rotate: false
+  xy: 742, 448
+  size: 516, 288
+  orig: 519, 291
+  offset: 1, 2
+  index: -1
+chest lid
+  rotate: false
+  xy: 742, 195
+  size: 468, 251
+  orig: 470, 253
+  offset: 1, 1
+  index: -1
+coin 1
+  rotate: false
+  xy: 1383, 135
+  size: 133, 131
+  orig: 135, 134
+  offset: 1, 2
+  index: -1
+coin 13
+  rotate: true
+  xy: 1518, 135
+  size: 131, 52
+  orig: 133, 54
+  offset: 1, 1
+  index: -1
+coin 14
+  rotate: true
+  xy: 1518, 135
+  size: 131, 52
+  orig: 133, 54
+  offset: 1, 1
+  index: -1
+coin 2
+  rotate: false
+  xy: 1545, 426
+  size: 133, 132
+  orig: 135, 134
+  offset: 1, 1
+  index: -1
+coin 3
+  rotate: false
+  xy: 1550, 274
+  size: 127, 50
+  orig: 129, 52
+  offset: 1, 1
+  index: -1
+coin 10
+  rotate: false
+  xy: 1550, 274
+  size: 127, 50
+  orig: 129, 52
+  offset: 1, 1
+  index: -1
+coin 12
+  rotate: false
+  xy: 1550, 274
+  size: 127, 50
+  orig: 129, 52
+  offset: 1, 1
+  index: -1
+coin 4
+  rotate: true
+  xy: 1572, 145
+  size: 127, 50
+  orig: 129, 52
+  offset: 1, 1
+  index: -1
+coin 11
+  rotate: true
+  xy: 1572, 145
+  size: 127, 50
+  orig: 129, 52
+  offset: 1, 1
+  index: -1
+coin 5
+  rotate: false
+  xy: 1383, 16
+  size: 89, 117
+  orig: 91, 119
+  offset: 1, 1
+  index: -1
+coin 6
+  rotate: true
+  xy: 1624, 151
+  size: 121, 48
+  orig: 123, 50
+  offset: 1, 1
+  index: -1
+coin 7
+  rotate: true
+  xy: 1624, 151
+  size: 121, 48
+  orig: 123, 50
+  offset: 1, 1
+  index: -1
+coin 8
+  rotate: false
+  xy: 1248, 6
+  size: 133, 131
+  orig: 136, 134
+  offset: 2, 2
+  index: -1
+coin 9
+  rotate: false
+  xy: 1248, 139
+  size: 133, 132
+  orig: 135, 134
+  offset: 1, 1
+  index: -1
+coin back
+  rotate: false
+  xy: 1550, 326
+  size: 126, 98
+  orig: 128, 100
+  offset: 1, 1
+  index: -1
+coin static 1
+  rotate: true
+  xy: 1098, 17
+  size: 176, 148
+  orig: 178, 150
+  offset: 1, 1
+  index: -1
+coin static 2
+  rotate: false
+  xy: 1260, 423
+  size: 283, 135
+  orig: 285, 137
+  offset: 1, 1
+  index: -1
+coin static 3
+  rotate: false
+  xy: 742, 19
+  size: 354, 174
+  orig: 356, 176
+  offset: 1, 1
+  index: -1
+hammer
+  rotate: true
+  xy: 1384, 268
+  size: 153, 164
+  orig: 155, 166
+  offset: 1, 1
+  index: -1
+heart
+  rotate: false
+  xy: 1212, 273
+  size: 170, 148
+  orig: 172, 150
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 738, 734
+  orig: 752, 748
+  offset: 7, 7
+  index: -1

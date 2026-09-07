@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebdd2a5945e690f4dbce84ff4ed29e69, type: 3}
+  m_Name: RawColorData
+  m_EditorClassIdentifier: 
+  rawColors:
+  - ID: 0
+    Color: '#ff4446'
+  - ID: 1
+    Color: '#ff5ae2'
+  - ID: 2
+    Color: '#6191ff'
+  - ID: 3
+    Color: '#fdd03e'
+  - ID: 4
+    Color: '#81d24b'
+  - ID: 5
+    Color: '#00ffde'
+  - ID: 6
+    Color: '#ba44ff'
+  - ID: 7
+    Color: '#ff8500'
+  - ID: 8
+    Color: '#8570fd'
+  - ID: 9
+    Color: '#60b8f1'
+  - ID: 10
+    Color: '#a64d79'
+  - ID: 11
+    Color: '#6100bc'
+  - ID: 12
+    Color: '#da9500'
+  - ID: 13
+    Color: '#007e2f'
+  - ID: 14
+    Color: '#ff9fbd'
+  - ID: 15
+    Color: '#ff5499'
+  - ID: 16
+    Color: '#00deff'
+  - ID: 17
+    Color: '#635bff'
+  - ID: 18
+    Color: '#fffc00'
+  - ID: 19
+    Color: '#4532d8'
+  - ID: 20
+    Color: '#ffe19a'
+  - ID: 21
+    Color: '#f8881a'
+  - ID: 22
+    Color: '#ff5f5f'
+  - ID: 23
+    Color: '#ff6d01'
+  - ID: 24
+    Color: '#c45e32'
+  - ID: 25
+    Color: '#5caa00'
+  - ID: 26
+    Color: '#f9ff53'
+  - ID: 27
+    Color: '#ffc000'
+  - ID: 28
+    Color: '#ff8400'
+  - ID: 29
+    Color: '#ff4800'
+  - ID: 30
+    Color: '#ff4446'
+  - ID: 31
+    Color: '#847eff'
+  - ID: 32
+    Color: '#e27cff'
+  - ID: 33
+    Color: '#ff9d32'
+  - ID: 34
+    Color: '#3120b8'
+  - ID: 35
+    Color: '#d2dfff'
+  - ID: 36
+    Color: '#0078ff'
+  - ID: 37
+    Color: '#d18361'
+  - ID: 38
+    Color: '#38ff58'
+  - ID: 39
+    Color: '#c1f443'
+  - ID: 40
+    Color: '#004d2b'
+  - ID: 41
+    Color: '#006024'
+  - ID: 42
+    Color: '#28e714'
+  - ID: 43
+    Color: '#a83300'
+  - ID: 44
+    Color: '#38be6a'
+  - ID: 45
+    Color: '#9fff2e'
+  - ID: 46
+    Color: '#ce58ff'
+  - ID: 47
+    Color: '#979aa0'
+  - ID: 48
+    Color: '#61646a'
+  - ID: 49
+    Color: '#a1add6'
+  - ID: 50
+    Color: '#9fbbfd'
+  - ID: 51
+    Color: '#b1ffff'
+  - ID: 52
+    Color: '#01f7f7'
+  - ID: 53
+    Color: '#00def7'
+  - ID: 54
+    Color: '#00c9f7'
+  - ID: 55
+    Color: '#00b7f7'
+  - ID: 56
+    Color: '#0088d1'
+  - ID: 57
+    Color: '#cbb47e'
+  - ID: 58
+    Color: '#c03317'

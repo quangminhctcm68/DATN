@@ -1,0 +1,1974 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3690126686940667161
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 721507116726369207}
+  - component: {fileID: 9185119881769185917}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &721507116726369207
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3690126686940667161}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9185119881769185917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3690126686940667161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ec532f32bec87844ac7225e34615a84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: PlayerProfile
+      Entry: 7
+      Data: 0|BrickEscape.PlayerProfile, Assembly-CSharp
+    - Name: Coin
+      Entry: 3
+      Data: 0
+    - Name: Star
+      Entry: 3
+      Data: 0
+    - Name: HintBoosterUseCount
+      Entry: 3
+      Data: 0
+    - Name: HammerBoosterUseCount
+      Entry: 3
+      Data: 0
+    - Name: MagicWandBoosterUseCount
+      Entry: 3
+      Data: 0
+    - Name: isNoAds
+      Entry: 3
+      Data: 0
+    - Name: lastClaimDay
+      Entry: 3
+      Data: -1
+    - Name: rewardDailyIndex
+      Entry: 3
+      Data: 0
+    - Name: rewardPackIndex
+      Entry: 3
+      Data: 0
+    - Name: trackingDailyReward
+      Entry: 3
+      Data: 0
+    - Name: epicBundleStartDay
+      Entry: 6
+      Data: 
+    - Name: SoundSetting
+      Entry: 5
+      Data: true
+    - Name: MusicSetting
+      Entry: 5
+      Data: true
+    - Name: VibrationSetting
+      Entry: 5
+      Data: true
+    - Name: FinishedTutorialType_1
+      Entry: 5
+      Data: false
+    - Name: FinishedTutorialType_2
+      Entry: 5
+      Data: false
+    - Name: currentFrame
+      Entry: 3
+      Data: 0
+    - Name: currentAvatar
+      Entry: 3
+      Data: 13
+    - Name: LevelProfile
+      Entry: 7
+      Data: 1|BrickEscape.LevelProfile, Assembly-CSharp
+    - Name: levelDatas
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[BrickEscape.LevelSaveData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 12
+    - Name: 
+      Entry: 7
+      Data: 3|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 1
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 2
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 3
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 4
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 5
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 6
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 7
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 8
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 9
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 10
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 11
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 14|BrickEscape.LevelSaveData, Assembly-CSharp
+    - Name: levelID
+      Entry: 3
+      Data: 12
+    - Name: isFinished
+      Entry: 5
+      Data: false
+    - Name: starGained
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: currentLevel
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: QuestProfile
+      Entry: 7
+      Data: 15|BrickEscape.QuestProfile, Assembly-CSharp
+    - Name: CoinCollectDaily
+      Entry: 3
+      Data: 0
+    - Name: WatchAdsCountDaily
+      Entry: 3
+      Data: 0
+    - Name: ClearBlockCountDaily
+      Entry: 3
+      Data: 0
+    - Name: UseBoosterCountDaily
+      Entry: 3
+      Data: 0
+    - Name: CollectDailyBadge
+      Entry: 3
+      Data: 0
+    - Name: CollectWeeklyBadge
+      Entry: 3
+      Data: 0
+    - Name: CollectMonthlyBadge
+      Entry: 3
+      Data: 0
+    - Name: CollectDailyBadgeReward
+      Entry: 3
+      Data: 0
+    - Name: CollectWeeklyBadgeReward
+      Entry: 3
+      Data: 0
+    - Name: DailyQuest
+      Entry: 7
+      Data: 16|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.Boolean,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 17|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: WeeklyQuest
+      Entry: 7
+      Data: 18|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.Boolean,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 19|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MonthlyQuest
+      Entry: 7
+      Data: 20|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.Boolean,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 21|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DailyQuestReward
+      Entry: 6
+      Data: 
+    - Name: WeeklyQuestReward
+      Entry: 6
+      Data: 
+    - Name: MonthlyQuestReward
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: avatarProfile
+      Entry: 7
+      Data: 22|BrickEscape.BrickEscape.AvatarProfile, Assembly-CSharp
+    - Name: avatarInforList
+      Entry: 7
+      Data: 23|System.Collections.Generic.List`1[[AvatarInfor, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 16
+    - Name: 
+      Entry: 7
+      Data: 24|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 0
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 25|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 1
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 26|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 2
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 27|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 3
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 28|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 4
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 29|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 5
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 30|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 6
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 31|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 7
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 32|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 8
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 33|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 9
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 34|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 10
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 35|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 11
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 36|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 12
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 37|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 13
+    - Name: isUnlocked
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 38|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 14
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 39|AvatarInfor, Assembly-CSharp
+    - Name: avatarID
+      Entry: 3
+      Data: 15
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: frameInforList
+      Entry: 7
+      Data: 40|System.Collections.Generic.List`1[[FrameInfor, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 13
+    - Name: 
+      Entry: 7
+      Data: 41|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 0
+    - Name: isUnlocked
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 42|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 1
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 43|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 2
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 44|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 3
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 45|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 4
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 46|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 5
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 47|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 6
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 48|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 7
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 49|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 8
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 50|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 9
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 51|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 10
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 52|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 11
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 53|FrameInfor, Assembly-CSharp
+    - Name: frameID
+      Entry: 3
+      Data: 12
+    - Name: isUnlocked
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: HeartProfile
+      Entry: 7
+      Data: 54|BrickEscape.HeartProfile, Assembly-CSharp
+    - Name: MaxHeart
+      Entry: 3
+      Data: 5
+    - Name: CurrentHeart
+      Entry: 3
+      Data: 5
+    - Name: LastSessionRemainingTime
+      Entry: 3
+      Data: 0
+    - Name: UnlimitedHeartRemainingTime
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: PiggyBankProfile
+      Entry: 7
+      Data: 55|BrickEscape.PiggyBankProfile, Assembly-CSharp
+    - Name: currentCoins
+      Entry: 3
+      Data: 0
+    - Name: maxCoins
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BattlepassProfile
+      Entry: 7
+      Data: 56|BrickEscape.BattlepassProfile, Assembly-CSharp
+    - Name: currentLevel
+      Entry: 3
+      Data: -1
+    - Name: currentEXP
+      Entry: 3
+      Data: 0
+    - Name: battlePassMilestoneDatas
+      Entry: 7
+      Data: 57|System.Collections.Generic.List`1[[BrickEscape.BattlePassMilestoneData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 31
+    - Name: 
+      Entry: 7
+      Data: 58|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 0
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 59|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 1
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 60|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 2
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 61|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 3
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 62|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 4
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 63|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 5
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 64|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 6
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 65|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 7
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 66|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 8
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 67|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 9
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 68|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 10
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 69|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 11
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 70|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 12
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 71|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 13
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 72|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 14
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 73|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 15
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 74|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 16
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 75|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 17
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 76|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 18
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 77|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 19
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 78|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 20
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 79|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 21
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 80|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 22
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 81|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 23
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 82|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 24
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 83|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 25
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 84|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 26
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 85|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 27
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 86|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 28
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 87|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 29
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 88|BrickEscape.BattlePassMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 30
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: battlePassPremiumMilestoneDatas
+      Entry: 7
+      Data: 89|System.Collections.Generic.List`1[[BrickEscape.BattlePassPremiumMilestoneData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 31
+    - Name: 
+      Entry: 7
+      Data: 90|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 0
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 91|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 1
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 92|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 2
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 93|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 3
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 94|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 4
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 95|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 5
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 96|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 6
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 97|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 7
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 98|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 8
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 99|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 9
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 100|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 10
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 101|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 11
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 102|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 12
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 103|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 13
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 104|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 14
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 105|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 15
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 106|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 16
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 107|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 17
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 108|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 18
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 109|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 19
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 110|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 20
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 111|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 21
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 112|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 22
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 113|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 23
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 114|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 24
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 115|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 25
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 116|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 26
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 117|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 27
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 118|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 28
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 119|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 29
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 120|BrickEscape.BattlePassPremiumMilestoneData, Assembly-CSharp
+    - Name: levelRequirement
+      Entry: 3
+      Data: 30
+    - Name: unlockStatus
+      Entry: 5
+      Data: false
+    - Name: claimedStatus
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: isBattlePassPurchased
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  levelData: {fileID: 11400000, guid: 0770497d2d2637c488e12ce388966e98, type: 2}
+  iapData: {fileID: 11400000, guid: 96b5a20f1dc425a4b9bf143071277fe3, type: 2}
+  dataCollection: {fileID: 11400000, guid: 2d6107429fdd92e4b8010810c9686b19, type: 2}
+  pooling: {fileID: 11400000, guid: 39275eb2b153cd842b4c7c5e1e4a96ee, type: 2}
+  spriteCollection: {fileID: 11400000, guid: 954819be8bd3a554d96c2b4d631c869c, type: 2}
+  profileData: {fileID: 11400000, guid: 22d29a9aced661847b0bd5b73db8dde5, type: 2}
+  rawFrameData: {fileID: 11400000, guid: 30d83f9c96c6f3040951c9dc06a3ffa1, type: 2}
+  rawAvatarData: {fileID: 11400000, guid: 99bafb73667ac34458a6a26bc7879cba, type: 2}
+  battlepassData: {fileID: 11400000, guid: 174f5b196afd2ae4385745fc6432bbff, type: 2}
+  cheatData: {fileID: 11400000, guid: 835a3db4e9e2caf439752c539a95ff63, type: 2}
+  cookedDailyReward: {fileID: 11400000, guid: ae54eb3f0f1a71d4cb7a93bf478010fe, type: 2}
+  rawDailyQuestData: {fileID: 11400000, guid: fa074f39d7f0e944c951aa90611d9007, type: 2}
+  rawDailyQuestRewardData: {fileID: 11400000, guid: e327382e5f7d9ed4e8a836526f677c5f, type: 2}
+  rawWeeklyQuestData: {fileID: 11400000, guid: 08be025ca44f586479b0455c46f00279, type: 2}
+  rawWeeklyRewardData: {fileID: 11400000, guid: 868cb74234f38f847886e51ab972f632, type: 2}
+  rawMonthlyQuestData: {fileID: 11400000, guid: 54bc3d018db968842a1d91390519a387, type: 2}
+  rawMonthlyRewardData: {fileID: 11400000, guid: 483360805c320434c94ecdff718da4aa, type: 2}
+  amount: 0

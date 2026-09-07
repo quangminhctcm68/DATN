@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026707743662",
+    "project_id": "bricks---puzzle-escape",
+    "storage_bucket": "bricks---puzzle-escape.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026707743662:android:e26162efcaec1e050dde3f",
+        "android_client_info": {
+          "package_name": "brick.out.puzzle.escape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqMKvIQS2L_hpjl0cVqy3_rvOteq12hmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

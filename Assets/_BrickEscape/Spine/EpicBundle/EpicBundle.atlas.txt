@@ -1,0 +1,125 @@
+
+EpicBundle.png
+size: 317,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: false
+  xy: 2, 164
+  size: 248, 235
+  orig: 250, 237
+  offset: 1, 1
+  index: -1
+coin 1
+  rotate: false
+  xy: 252, 143
+  size: 62, 24
+  orig: 64, 26
+  offset: 1, 1
+  index: -1
+coin 2
+  rotate: false
+  xy: 252, 143
+  size: 62, 24
+  orig: 64, 26
+  offset: 1, 1
+  index: -1
+coin 12
+  rotate: false
+  xy: 249, 96
+  size: 51, 20
+  orig: 53, 22
+  offset: 1, 1
+  index: -1
+coin 13
+  rotate: false
+  xy: 249, 96
+  size: 51, 20
+  orig: 53, 22
+  offset: 1, 1
+  index: -1
+coin 3
+  rotate: true
+  xy: 252, 169
+  size: 42, 55
+  orig: 45, 58
+  offset: 2, 2
+  index: -1
+coin 4
+  rotate: false
+  xy: 249, 118
+  size: 58, 23
+  orig: 60, 25
+  offset: 1, 1
+  index: -1
+coin 5
+  rotate: false
+  xy: 249, 118
+  size: 58, 23
+  orig: 60, 25
+  offset: 1, 1
+  index: -1
+coin 6
+  rotate: false
+  xy: 252, 336
+  size: 63, 63
+  orig: 66, 65
+  offset: 2, 1
+  index: -1
+coin 7
+  rotate: false
+  xy: 252, 271
+  size: 63, 63
+  orig: 66, 65
+  offset: 1, 1
+  index: -1
+coin 8
+  rotate: true
+  xy: 197, 102
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1
+coin 10
+  rotate: true
+  xy: 197, 102
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1
+coin 11
+  rotate: true
+  xy: 197, 102
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1
+coin 9
+  rotate: true
+  xy: 223, 102
+  size: 60, 24
+  orig: 62, 26
+  offset: 1, 1
+  index: -1
+coin chest
+  rotate: false
+  xy: 2, 79
+  size: 193, 83
+  orig: 195, 85
+  offset: 1, 1
+  index: -1
+coin static 1
+  rotate: false
+  xy: 2, 2
+  size: 308, 75
+  orig: 310, 77
+  offset: 1, 1
+  index: -1
+coin static 2
+  rotate: false
+  xy: 252, 213
+  size: 57, 56
+  orig: 59, 58
+  offset: 1, 1
+  index: -1

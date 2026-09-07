@@ -1,0 +1,681 @@
+{
+  "skeleton": {
+    "hash": "NVr7HrDYGPHJ9X6+AD36ZIw2Ysc",
+    "spine": "3.8.76",
+    "x": -180.3,
+    "y": -90.49,
+    "width": 345,
+    "height": 269,
+    "images": "./Shop_Package/Epic bundle/image/",
+    "audio": "D:/80 Brick Escape/Shop_Package/Epic bundle"
+  },
+  "bones": [
+    { "name": "root" },
+    {
+      "name": "Chest",
+      "parent": "root",
+      "length": 141.51,
+      "rotation": 90,
+      "x": -0.38,
+      "y": -41.39
+    },
+    {
+      "name": "coin 6",
+      "parent": "root",
+      "length": 32.04,
+      "rotation": 90.8,
+      "x": 134.45,
+      "y": -57.86
+    },
+    {
+      "name": "coin 7",
+      "parent": "root",
+      "length": 29.37,
+      "rotation": 89.13,
+      "x": 98.41,
+      "y": -56.52
+    },
+    {
+      "name": "coin 9",
+      "parent": "root",
+      "length": 14.25,
+      "rotation": 88.21,
+      "x": 56.58,
+      "y": -46.29
+    },
+    {
+      "name": "coin 8",
+      "parent": "root",
+      "length": 14.69,
+      "rotation": 91.74,
+      "x": 59.25,
+      "y": -33.83
+    },
+    {
+      "name": "coin 11",
+      "parent": "root",
+      "length": 13.35,
+      "rotation": 90,
+      "x": 123.33,
+      "y": -19.59
+    },
+    {
+      "name": "coin 10",
+      "parent": "root",
+      "length": 14.68,
+      "rotation": 90,
+      "x": 121.1,
+      "y": -7.57
+    },
+    {
+      "name": "coin 5",
+      "parent": "root",
+      "length": 12.01,
+      "rotation": 90,
+      "x": -126.32,
+      "y": -5.35
+    },
+    {
+      "name": "coin 4",
+      "parent": "root",
+      "length": 12.46,
+      "rotation": 90,
+      "x": -118.31,
+      "y": 6.67
+    },
+    {
+      "name": "coin 3",
+      "parent": "root",
+      "length": 14.07,
+      "rotation": 145.3,
+      "x": -156.58,
+      "y": -12.02
+    },
+    {
+      "name": "coin 13",
+      "parent": "root",
+      "length": 11.13,
+      "rotation": 87.71,
+      "x": -106.74,
+      "y": 33.81
+    },
+    {
+      "name": "coin 12",
+      "parent": "root",
+      "length": 12.01,
+      "rotation": 90,
+      "x": -105.4,
+      "y": 45.38
+    },
+    {
+      "name": "coin 2",
+      "parent": "Chest",
+      "length": 13.35,
+      "x": 143.29,
+      "y": 6.23
+    },
+    {
+      "name": "coin 1",
+      "parent": "Chest",
+      "length": 13.35,
+      "x": 131.72,
+      "y": -24.03
+    }
+  ],
+  "slots": [
+    {
+      "name": "coin static 2",
+      "bone": "root",
+      "attachment": "coin static 2"
+    },
+    {
+      "name": "coin 13",
+      "bone": "coin 13",
+      "attachment": "coin 13"
+    },
+    {
+      "name": "coin 12",
+      "bone": "coin 12",
+      "attachment": "coin 12"
+    },
+    {
+      "name": "Chest",
+      "bone": "Chest",
+      "attachment": "Chest"
+    },
+    {
+      "name": "coin static 1",
+      "bone": "root",
+      "attachment": "coin static 1"
+    },
+    {
+      "name": "coin 11",
+      "bone": "coin 11",
+      "attachment": "coin 11"
+    },
+    {
+      "name": "coin 10",
+      "bone": "coin 10",
+      "attachment": "coin 10"
+    },
+    {
+      "name": "coin 9",
+      "bone": "coin 9",
+      "attachment": "coin 9"
+    },
+    {
+      "name": "coin 8",
+      "bone": "coin 8",
+      "attachment": "coin 8"
+    },
+    {
+      "name": "coin 7",
+      "bone": "coin 7",
+      "attachment": "coin 7"
+    },
+    {
+      "name": "coin 6",
+      "bone": "coin 6",
+      "attachment": "coin 6"
+    },
+    {
+      "name": "coin 5",
+      "bone": "coin 5",
+      "attachment": "coin 5"
+    },
+    {
+      "name": "coin 4",
+      "bone": "coin 4",
+      "attachment": "coin 4"
+    },
+    {
+      "name": "coin 3",
+      "bone": "coin 3",
+      "attachment": "coin 3"
+    },
+    {
+      "name": "coin chest",
+      "bone": "Chest",
+      "attachment": "coin chest"
+    },
+    {
+      "name": "coin 2",
+      "bone": "coin 2",
+      "attachment": "coin 2"
+    },
+    {
+      "name": "coin 1",
+      "bone": "coin 1",
+      "attachment": "coin 1"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "coin 10": {
+          "coin 10": {
+            "x": 3.08,
+            "y": 1.41,
+            "rotation": -90,
+            "width": 62,
+            "height": 26
+          }
+        },
+        "coin 11": {
+          "coin 11": {
+            "x": 2.1,
+            "y": -0.37,
+            "rotation": -90,
+            "width": 62,
+            "height": 26
+          }
+        },
+        "coin 12": {
+          "coin 12": {
+            "x": 2.13,
+            "y": 0.4,
+            "rotation": -90,
+            "width": 53,
+            "height": 22
+          }
+        },
+        "coin 13": {
+          "coin 13": {
+            "x": 1.77,
+            "y": -1.86,
+            "rotation": -87.71,
+            "width": 53,
+            "height": 22
+          }
+        },
+        "Chest": {
+          "Chest": {
+            "x": 101.4,
+            "y": -17.08,
+            "rotation": -90,
+            "width": 250,
+            "height": 237
+          }
+        },
+        "coin 1": {
+          "coin 1": {
+            "x": 1.18,
+            "y": -0.05,
+            "rotation": -90,
+            "width": 64,
+            "height": 26
+          }
+        },
+        "coin 2": {
+          "coin 2": {
+            "x": 1.61,
+            "y": -0.31,
+            "rotation": -90,
+            "width": 64,
+            "height": 26
+          }
+        },
+        "coin 3": {
+          "coin 3": {
+            "x": 1.31,
+            "y": 0.26,
+            "rotation": -145.3,
+            "width": 45,
+            "height": 58
+          }
+        },
+        "coin 4": {
+          "coin 4": {
+            "x": 1.34,
+            "y": 1,
+            "rotation": -90,
+            "width": 60,
+            "height": 25
+          }
+        },
+        "coin 5": {
+          "coin 5": {
+            "x": 1.36,
+            "y": -1.01,
+            "rotation": -90,
+            "width": 60,
+            "height": 25
+          }
+        },
+        "coin 6": {
+          "coin 6": {
+            "x": 1.9,
+            "y": 2.73,
+            "rotation": -90.8,
+            "width": 66,
+            "height": 65
+          }
+        },
+        "coin 7": {
+          "coin 7": {
+            "x": -1.48,
+            "y": 0.69,
+            "rotation": -89.13,
+            "width": 66,
+            "height": 65
+          }
+        },
+        "coin 8": {
+          "coin 8": {
+            "x": 3.38,
+            "y": 1.45,
+            "rotation": -91.74,
+            "width": 62,
+            "height": 26
+          }
+        },
+        "coin 9": {
+          "coin 9": {
+            "x": 1.74,
+            "y": 1.94,
+            "rotation": -88.21,
+            "width": 62,
+            "height": 26
+          }
+        },
+        "coin static 1": {
+          "coin static 1": {
+            "x": 4.7,
+            "y": -44.99,
+            "width": 310,
+            "height": 77
+          }
+        },
+        "coin static 2": {
+          "coin static 2": {
+            "x": -112.8,
+            "y": 5.51,
+            "width": 59,
+            "height": 58
+          }
+        },
+        "coin chest": {
+          "coin chest": {
+            "x": 99.4,
+            "y": -14.58,
+            "rotation": -90,
+            "width": 195,
+            "height": 85
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "Chest": {
+          "translate": [
+            { "time": 1.1667 },
+            {
+              "time": 1.3333,
+              "y": 22.66
+            },
+            { "time": 1.5 }
+          ],
+          "scale": [
+            { "time": 1 },
+            {
+              "time": 1.1667,
+              "x": 0.895
+            },
+            {
+              "time": 1.3333,
+              "x": 1.007
+            },
+            {
+              "time": 1.5,
+              "x": 0.895
+            },
+            {
+              "time": 1.6667,
+              "x": 1.041
+            },
+            { "time": 2 }
+          ]
+        },
+        "coin 6": {
+          "translate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "y": 35.84,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ]
+        },
+        "coin 7": {
+          "translate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "y": 23.72
+            },
+            { "time": 1.7 }
+          ]
+        },
+        "coin 9": {
+          "translate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "y": 17.92
+            },
+            { "time": 1.7 }
+          ]
+        },
+        "coin 8": {
+          "rotate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "angle": 7.14,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ],
+          "translate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "y": 31.09,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ]
+        },
+        "coin 11": {
+          "rotate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "angle": 8.8
+            },
+            { "time": 1.7 }
+          ],
+          "translate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "y": 15.28
+            },
+            { "time": 1.7 }
+          ]
+        },
+        "coin 10": {
+          "rotate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "angle": -6.57,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ],
+          "translate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "y": 29.51,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ]
+        },
+        "coin 5": {
+          "rotate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "angle": -5.69
+            },
+            { "time": 1.7 }
+          ],
+          "translate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "y": 15.81
+            },
+            { "time": 1.7 }
+          ]
+        },
+        "coin 4": {
+          "rotate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "angle": 8.35,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ],
+          "translate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "y": 27.93,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ]
+        },
+        "coin 3": {
+          "rotate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "angle": 15.08,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ],
+          "translate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "y": 39.52,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ]
+        },
+        "coin 13": {
+          "rotate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "angle": -5.45
+            },
+            { "time": 1.7 }
+          ],
+          "translate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "y": 21.08
+            },
+            { "time": 1.7 }
+          ]
+        },
+        "coin 12": {
+          "rotate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "angle": 7.55,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ],
+          "translate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "y": 35.31,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ]
+        },
+        "coin 2": {
+          "translate": [
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.6667,
+              "x": 37.02,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 1.8333 }
+          ]
+        },
+        "coin 1": {
+          "rotate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "angle": -9.19
+            },
+            { "time": 1.7 }
+          ],
+          "translate": [
+            { "time": 1.5 },
+            {
+              "time": 1.6,
+              "x": 23.61
+            },
+            { "time": 1.7 }
+          ],
+          "shear": [ { "time": 3 } ]
+        }
+      }
+    }
+  }
+}

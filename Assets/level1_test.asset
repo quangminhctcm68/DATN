@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a605d6f5d7a8a624284d81499ff97eb9, type: 3}
+  m_Name: level1_test
+  m_EditorClassIdentifier: 
+  SourceTexture: {fileID: 2800000, guid: e2f6dcc7b74df9e4b8f7518af756c6b2, type: 3}
+  ImportMode: 2
+  AlphaThreshold: 0.5
+  BackgroundRule: 0
+  DownsampleFactor: 2
+  CropRect:
+    x: 0
+    y: 0
+    width: 50
+    height: 50
+  PaletteRows:
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4279835674
+    EditableHex: '#1A1C19'
+    ExistingColorId: 59
+    ResolvedColorId: 59
+    WillAddToRawColorData: 0
+    PixelCount: 150
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4289056511
+    EditableHex: '#FFCEA5'
+    ExistingColorId: 60
+    ResolvedColorId: 60
+    WillAddToRawColorData: 0
+    PixelCount: 67
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4281241850
+    EditableHex: '#FA902E'
+    ExistingColorId: 61
+    ResolvedColorId: 61
+    WillAddToRawColorData: 0
+    PixelCount: 57
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4284799730
+    EditableHex: '#F2DA64'
+    ExistingColorId: 62
+    ResolvedColorId: 62
+    WillAddToRawColorData: 0
+    PixelCount: 40
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4290928384
+    EditableHex: '#005FC2'
+    ExistingColorId: 63
+    ResolvedColorId: 63
+    WillAddToRawColorData: 0
+    PixelCount: 23
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4294417735
+    EditableHex: '#479DF7'
+    ExistingColorId: 64
+    ResolvedColorId: 64
+    WillAddToRawColorData: 0
+    PixelCount: 21
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4289261823
+    EditableHex: '#FFF0A8'
+    ExistingColorId: 65
+    ResolvedColorId: 65
+    WillAddToRawColorData: 0
+    PixelCount: 8
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4281366483
+    EditableHex: '#D37730'
+    ExistingColorId: 66
+    ResolvedColorId: 66
+    WillAddToRawColorData: 0
+    PixelCount: 8
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4287929329
+    EditableHex: '#F19B94'
+    ExistingColorId: 67
+    ResolvedColorId: 67
+    WillAddToRawColorData: 0
+    PixelCount: 3
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4294568596
+    EditableHex: '#94EAF9'
+    ExistingColorId: 68
+    ResolvedColorId: 68
+    WillAddToRawColorData: 0
+    PixelCount: 2
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4292336597
+    EditableHex: '#D5DBD7'
+    ExistingColorId: 69
+    ResolvedColorId: 69
+    WillAddToRawColorData: 0
+    PixelCount: 2
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    EditableHex: '#FFFFFF'
+    ExistingColorId: 70
+    ResolvedColorId: 70
+    WillAddToRawColorData: 0
+    PixelCount: 1
+  - SourceColor:
+      serializedVersion: 2
+      rgba: 4288716960
+    EditableHex: '#A0A0A0'
+    ExistingColorId: 71
+    ResolvedColorId: 71
+    WillAddToRawColorData: 0
+    PixelCount: 1
+  QuotaRows:
+  - ColorId: 59
+    RequiredBlockCount: 20
+  - ColorId: 60
+    RequiredBlockCount: 40
+  - ColorId: 61
+    RequiredBlockCount: 15
+  - ColorId: 62
+    RequiredBlockCount: 10
+  - ColorId: 63
+    RequiredBlockCount: 10
+  - ColorId: 64
+    RequiredBlockCount: 10
+  - ColorId: 65
+    RequiredBlockCount: 10
+  - ColorId: 66
+    RequiredBlockCount: 15
+  - ColorId: 67
+    RequiredBlockCount: 2
+  - ColorId: 68
+    RequiredBlockCount: 4
+  - ColorId: 69
+    RequiredBlockCount: 1
+  - ColorId: 70
+    RequiredBlockCount: 1
+  - ColorId: 71
+    RequiredBlockCount: 2
+  LevelId: 71
+  OutputFolder: Assets/_BrickEscape/Data/Raws
+  CellSize: 1
+  Hard: 0
+  Preset: 1
+  CandidateCount: 12
+  BaseSeed: 12345
+  MinVisualFidelity: 0.75
+  PinnedCandidateIndices: 
+  IsDirty: 0

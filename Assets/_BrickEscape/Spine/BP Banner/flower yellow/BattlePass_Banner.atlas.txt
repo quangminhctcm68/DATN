@@ -1,0 +1,13 @@
+
+BattlePass_Banner.png
+size: 242,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hoa vang
+  rotate: false
+  xy: 2, 2
+  size: 238, 301
+  orig: 240, 306
+  offset: 1, 4
+  index: -1

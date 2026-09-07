@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18bb2725645608742b2896e5d08f9f52, type: 3}
+  m_Name: RawAvatar
+  m_EditorClassIdentifier: 
+  rawAvatars:
+  - AvatarID: 0
+    LevelComplete: 5
+    UnlockType: 0
+  - AvatarID: 1
+    LevelComplete: 10
+    UnlockType: 0
+  - AvatarID: 2
+    LevelComplete: 20
+    UnlockType: 0
+  - AvatarID: 3
+    LevelComplete: 30
+    UnlockType: 0
+  - AvatarID: 4
+    LevelComplete: 40
+    UnlockType: 0
+  - AvatarID: 5
+    LevelComplete: 50
+    UnlockType: 0
+  - AvatarID: 6
+    LevelComplete: 75
+    UnlockType: 0
+  - AvatarID: 7
+    LevelComplete: 100
+    UnlockType: 0
+  - AvatarID: 8
+    LevelComplete: 125
+    UnlockType: 0
+  - AvatarID: 9
+    LevelComplete: 150
+    UnlockType: 0
+  - AvatarID: 10
+    LevelComplete: 175
+    UnlockType: 0
+  - AvatarID: 11
+    LevelComplete: 200
+    UnlockType: 0
+  - AvatarID: 12
+    LevelComplete: 225
+    UnlockType: 0
+  - AvatarID: 14
+    LevelComplete: 250
+    UnlockType: 0
+  - AvatarID: 15
+    LevelComplete: -1
+    UnlockType: 1
+  - AvatarID: 16
+    LevelComplete: 275
+    UnlockType: 0

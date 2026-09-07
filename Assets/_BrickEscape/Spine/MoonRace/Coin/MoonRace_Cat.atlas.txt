@@ -1,0 +1,97 @@
+
+MoonRace_Cat.png
+size: 448,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin 1
+  rotate: true
+  xy: 280, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin 6
+  rotate: true
+  xy: 280, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 1
+  rotate: true
+  xy: 280, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 2
+  rotate: true
+  xy: 280, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 3
+  rotate: true
+  xy: 280, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 4
+  rotate: true
+  xy: 280, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 5
+  rotate: true
+  xy: 280, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin static 6
+  rotate: true
+  xy: 280, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin 2
+  rotate: true
+  xy: 191, 2
+  size: 103, 87
+  orig: 107, 90
+  offset: 2, 2
+  index: -1
+coin 3
+  rotate: true
+  xy: 100, 3
+  size: 102, 89
+  orig: 106, 92
+  offset: 2, 2
+  index: -1
+coin 4
+  rotate: true
+  xy: 364, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin 5
+  rotate: true
+  xy: 364, 7
+  size: 98, 82
+  orig: 102, 85
+  offset: 2, 2
+  index: -1
+coin 7
+  rotate: true
+  xy: 2, 6
+  size: 99, 96
+  orig: 103, 99
+  offset: 2, 2
+  index: -1

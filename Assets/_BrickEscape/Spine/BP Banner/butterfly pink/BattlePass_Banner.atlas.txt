@@ -1,0 +1,20 @@
+
+BattlePass_Banner.png
+size: 145,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butterfly pink 1
+  rotate: true
+  xy: 82, 9
+  size: 67, 61
+  orig: 73, 65
+  offset: 4, 1
+  index: -1
+butterfly pink 2
+  rotate: true
+  xy: 2, 2
+  size: 74, 78
+  orig: 80, 83
+  offset: 2, 2
+  index: -1

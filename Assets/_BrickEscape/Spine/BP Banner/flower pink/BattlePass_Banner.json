@@ -1,0 +1,100 @@
+{
+  "skeleton": {
+    "hash": "5pa8jNWhGEWFJSpv2sLiU5xjXAY",
+    "spine": "3.8.76",
+    "x": -590.24,
+    "y": -402.59,
+    "width": 1160,
+    "height": 867,
+    "images": "./BattlePass_Banner/images/",
+    "audio": "D:/80 Brick Escape/BattlePass_Banner"
+  },
+  "bones": [
+    { "name": "root" },
+    {
+      "name": "hoa hong",
+      "parent": "root",
+      "length": 289.68,
+      "rotation": 89.72,
+      "x": 431.33,
+      "y": -363.63
+    }
+  ],
+  "slots": [
+    {
+      "name": "hoa hong",
+      "bone": "hoa hong",
+      "attachment": "hoa hong"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "hoa hong": {
+          "hoa hong": {
+            "x": 136.56,
+            "y": -4.25,
+            "rotation": -89.72,
+            "width": 245,
+            "height": 335
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "hoa hong": {
+          "rotate": [
+            {
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 1.5,
+              "angle": 6.64,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4.5,
+              "angle": 6.64,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 6,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 7.5,
+              "angle": 6.64,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 9,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 10.5,
+              "angle": 6.64,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            { "time": 12 }
+          ]
+        }
+      }
+    }
+  }
+}

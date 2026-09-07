@@ -1,0 +1,28 @@
+{
+    "name": "SingularSDK",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.Purchasing",
+        "Unity.Purchasing"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+         {
+             "name": "com.unity.purchasing",
+             "expression": "[4.0,5.0)",
+             "define": "SINGULAR_SDK_IAP_ENABLED__IAP_4"
+         },
+        {
+            "name": "com.unity.purchasing",
+            "expression": "[5.0,6.0)",
+            "define": "SINGULAR_SDK_IAP_ENABLED__IAP_5"
+        }
+     ],
+    "noEngineReferences": false
+}
