@@ -1,0 +1,14 @@
+{
+  "name": "com.bmh.mmp",
+  "version": "0.0.2",
+  "tag": "0.0.2",
+  "displayName": "BMH Game's MMP",
+  "description": "package to display adsvertisment in all projects of BMH Game's Team",
+  "unity": "2019.1",
+  "author": {
+    "name": "BMH Game",
+    "email": "hungmanh.it92@gmail.com",
+    "url": ""
+  },
+  "hideInEditor": false
+}

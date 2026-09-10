@@ -1,0 +1,17 @@
+{
+    "name": "com.bmh.tracking.runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6610b6cea3489564cb5eab724e5193a3",
+        "GUID:2da9b51fc7a51154389c46c9d5663120"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

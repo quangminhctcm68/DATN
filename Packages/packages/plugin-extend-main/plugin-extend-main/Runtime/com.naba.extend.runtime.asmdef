@@ -1,0 +1,19 @@
+{
+    "name": "com.bigbear.extend.runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2da9b51fc7a51154389c46c9d5663120",
+        "GUID:4139e191aa32f459e9eb2e331225ad7e",
+        "GUID:b4318b6f3695442c4983c360248781db",
+        "GUID:b649415412a3d4e8a83df256b07478bb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

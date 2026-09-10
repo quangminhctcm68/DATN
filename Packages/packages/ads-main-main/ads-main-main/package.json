@@ -1,0 +1,13 @@
+{
+  "name": "com.nabagame.ads",
+  "version": "0.1.1",
+  "displayName": "Naba Game's Ads",
+  "description": "package to display adsvertisment in all projects of Naba Game's Team",
+  "unity": "2019.1",
+  "author": {
+    "name": "Naba Game",
+    "email": "hungmanh.it92@gmail.com",
+    "url": ""
+  },
+  "hideInEditor": false
+}

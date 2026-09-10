@@ -1,0 +1,21 @@
+{
+    "name": "com.nabagame.ads.runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2da9b51fc7a51154389c46c9d5663120",
+        "GUID:a4cfc1a18fa3a469b96d885db522f42e",
+        "GUID:436153d2b8790ad4780fc290af361209",
+        "GUID:43b4a9bb130676e4ca0d391865151edb",
+        "GUID:935fe693f2346304abe70621c33ed1b7",
+        "GUID:2a37df438292d4903b4e5159c5de3bf9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+{
+    "name": "com.bmh.mmp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2da9b51fc7a51154389c46c9d5663120",
+        "GUID:6610b6cea3489564cb5eab724e5193a3",
+        "GUID:43b4a9bb130676e4ca0d391865151edb",
+        "GUID:36c3cbeffa2351248bb7890495c05654",
+        "GUID:62a7526a084e6428ea4f6d0161bc7e18",
+        "GUID:a4cfc1a18fa3a469b96d885db522f42e",
+        "GUID:231f5534f7b1c944f9eab9fd5ca05726"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

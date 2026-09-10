@@ -1,0 +1,31 @@
+{
+    "name": "com.bmh.iap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:400f2260dd8d285419d1db99999109aa",
+        "GUID:85419d1db9999260dd8d29109aa400f2",
+        "GUID:f6443094e1de2413e6ae58b07d0bf1e9",
+        "GUID:d0bf1e9ef64430948b071de2413e6ae5",
+        "GUID:059c931883a8a274690376c0592ea9a0",
+        "GUID:94e1de2458b07d0bf1e9f13e6ae06443",
+        "GUID:e63a64384cc3ef04cac761c1ce76e9c2",
+        "GUID:d0bf1e9f644394e1de13e6ae02458b07",
+        "GUID:08d1c582746949b40ba6a45cdb776bdf",
+        "GUID:93cae6db0a5b749a6ba29e4952552ff6",
+        "GUID:6ff1efac668145cd989b2b5879eaacb9",
+        "GUID:6610b6cea3489564cb5eab724e5193a3",
+        "GUID:2da9b51fc7a51154389c46c9d5663120",
+        "GUID:43b4a9bb130676e4ca0d391865151edb",
+        "GUID:82267c0b4dd46ea4bad13578a4b46e95"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
