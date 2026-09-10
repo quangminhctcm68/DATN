@@ -1,0 +1,13 @@
+{
+  "name": "com.nabagame.googlesheet.importer",
+  "version": "0.1.0",
+  "displayName": "BMH Game's Googlesheet Importer",
+  "description": "package to import data from Googlesheet in all projects of BMH Game's Team",
+  "unity": "2020.3",
+  "author": {
+    "name": "BMH Game",
+    "email": "hungmanh.it92@gmail.com",
+    "url": ""
+  },
+  "hideInEditor": false
+}
